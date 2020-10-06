@@ -18,3 +18,13 @@ $ git commit -m "Adding first commit in local version"
 
 7) Add all files insted of one by one
 $ git add -A
+
+8) Commit all files 
+$ git commit -a -m "Added all files"
+
+9) Create branch
+$ git branch firstbranch
+
+10)Switch to newly created branch.
+$ git checkout firstbranch
+
