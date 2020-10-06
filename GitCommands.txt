@@ -1,0 +1,20 @@
+1) to initialize GITs
+ $ git init
+
+2) Sync Original repository
+$ git remote add origin "https://github.com/SNikam01/git-github.git"
+
+3) Fetch all files from Central to Local Repository
+$ git pull origin main
+
+4) What new files are added from locally into git
+$ git status
+
+5) Add file
+$ git add FileOne.txt
+
+6) Commit changes into git with message
+$ git commit -m "Adding first commit in local version"
+
+7) Add all files insted of one by one
+$ git add -A
