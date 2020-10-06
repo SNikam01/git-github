@@ -28,3 +28,6 @@ $ git branch firstbranch
 10)Switch to newly created branch.
 $ git checkout firstbranch
 
+11) Merge Branch to main branch
+$ git merge firstbranch
+
